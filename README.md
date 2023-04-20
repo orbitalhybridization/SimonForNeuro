@@ -23,7 +23,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 | visual length         | 161.3ms         | +29.1ms          | 21.2ms  | 184.9ms  | 385ms    |
 | audio-visual sync     | 0ms             | \-52.3ms         | 20.0ms  | \-230ms  | \-30.1ms |
 | frame rate            | 31Hz            | +1.1Hz           | 0.668Hz | 28.58Hz  | 32.91Hz  |
-| Game-DAQ Time         | 0ms             | \-194ms          | 21.2ms  | \-210ms  | 0ms      |
+| Laptop-DAQ Time         | 0ms             | \-194ms          | 21.2ms  | \-210ms  | 0ms      |
 
 
 #### Computer 2

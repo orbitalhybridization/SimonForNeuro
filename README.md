@@ -1,4 +1,7 @@
 # Simon for Neuroscience
+
+![something](https://imgur.com/a/L7ex5tP)
+
 Master's Project in ECE. Developed a game in Unreal Engine with high accuracy and precision delivery of both auditory and visual stimuli for use in in-unit sEEG studies.
 
 ## Download-and-Play instructions

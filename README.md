@@ -39,10 +39,10 @@ This project was completed as part of the curriculum for a Master's of Science p
 
 ## Download
 
-1. Download the folder "Simon for Neuro" or [click here](https://something.com) for the Google Drive link.
+1. Download the [zip file](https://drive.google.com/file/d/1Cx2oEqHdcQ-lriwse8LaBcMDWhglmOVx/view?usp=sharing) via Google Drive
 2. Extract to your directory of choice
 3. Inside of the folder, double click main/Simon1.exe
-4. Enjoy! Game comes with default sounds in main/Sounds subfolder
+4. Enjoy! Game comes with default sounds in main/Sounds/ subfolder
 
 ## Using the benchmarking tools
 ### Requirements:

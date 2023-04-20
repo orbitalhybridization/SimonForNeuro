@@ -16,3 +16,5 @@ Master's Project in ECE. Developed a game in Unreal Engine with high accuracy an
 1. Photodiode
 2. Microphone
 3. DAQ
+
+Sample data from Intan Recorder available on [Google Drive](https://drive.google.com/drive/folders/1f36aAD_Uoqpxgpse4-SgAn9CM8oxs9nb?usp=share_link).

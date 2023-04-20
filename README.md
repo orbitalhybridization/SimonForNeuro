@@ -13,7 +13,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 
 ### Stimulus Timing Test Results
 
-| measure               | expected (E(x)) | Measured - E(x) | sd      | min      | max      |
+| measure               | expected (E(x)) | E(measured) - E(x) | sd      | min      | max      |
 | --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
 | inter-audio-interval  | 1600ms          | +34ms            | 104.5ms | 1599ms   | 2560ms   |
 | inter-visual-interval | 1600ms          | +36ms            | 108.2ms | 1598ms   | 2580ms   |

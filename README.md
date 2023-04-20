@@ -7,7 +7,7 @@ Project goals:
 1. optimize UE4 stimulus delivery timing for use in neuroscience experiments
 2. create a game that increases engagement and motivation in study participants.
 
-This project was completed as part of the curriculum for a Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University).
+This project was completed as part of the curriculum for a Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University). As part of the process, I gave a [short presentation](https://docs.google.com/presentation/d/e/2PACX-1vTYunatrHIF_dEswvlyRBQls0-UcbHC2gGNquG2_JlpQTFi_Uf162eQxXcN1pgXnw/pub?start=false&loop=false&delayms=10000) to a small committee.
 
 ## Features
 * Uploadable sound files (.WAV,.OGG supported)

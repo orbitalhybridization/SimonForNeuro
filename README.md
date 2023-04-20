@@ -2,7 +2,7 @@
 
 ![something](https://i.imgur.com/as5GhAn.png)
 
-Duke University Master's Project in Electrical & Computer Engineering (Advisor: Gregory Cogan). Developed a game in Unreal Engine with high accuracy and precision delivery of both auditory and visual stimuli for use in in-unit sEEG studies.
+Master's Project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University). Developed a game in Unreal Engine with high accuracy and precision delivery of both auditory and visual stimuli for use in in-unit sEEG studies.
 
 ## Download-and-Play instructions
 

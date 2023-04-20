@@ -55,11 +55,11 @@ Enjoy! Game comes with default sounds in Sounds/ subfolder.
 2. Microphone
 3. DAQ
 
-### Tips
-* Use the same layout for folders as seen in Sample Intan Data
-
 ### Sample data
 Sample data available for:
 * [.RHD File](https://drive.google.com/drive/folders/1f36aAD_Uoqpxgpse4-SgAn9CM8oxs9nb?usp=share_link)
 * [.CSV File](something.com)
 * .WAV files in Sounds/ subfolder
+
+### Tips
+* Use the same layout for folders as seen in Sample Intan Data

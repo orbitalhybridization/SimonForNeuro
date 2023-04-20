@@ -59,7 +59,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 (insert video)
 
 ### Known Issues
-* log file sometimes has issues opening open upon first running the program
+* log file sometimes has issues opening upon first running the program
 * uploading sounds occasionally crashes the game (possibly due to size)
 
 ## Download

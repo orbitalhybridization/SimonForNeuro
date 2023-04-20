@@ -89,4 +89,4 @@ Sample data available for:
 * log file sometimes has issues opening upon first running the program
 * uploading sounds occasionally crashes the game (possibly due to size)
 
-Contact Ian Jackson at [orbitalhybridization@gmail.com](mailto:orbitalhybridization@gmail.com)
+Questions? Feedback? Contact me at [orbitalhybridization@gmail.com](mailto:orbitalhybridization@gmail.com).

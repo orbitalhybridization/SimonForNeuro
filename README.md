@@ -1,5 +1,3 @@
-# Simon for Neuroscience
-
 ![something](https://i.imgur.com/as5GhAn.png)
 
 ## Project Summary

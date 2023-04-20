@@ -1,11 +1,13 @@
 ![something](https://i.imgur.com/as5GhAn.png)
 
 ## Project Summary
-Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University). Developed a game in the game engine Unreal Engine v4.27 (UE4) with high accuracy and precision delivery of both auditory and visual stimuli for use in in-unit sEEG studies. The game is a UE4-based implementation of the [popular electronic game](https://en.wikipedia.org/wiki/Simon_(game)). A memory game by design, Simon is a useful tool for studying the neural correlates of auditory working memory, speech perception, and more.
+Developed a game in the game engine Unreal Engine v4.27 (UE4) with high accuracy and precision delivery of both auditory and visual stimuli for use in in-unit sEEG studies. The game is a UE4-based implementation of the [popular electronic game](https://en.wikipedia.org/wiki/Simon_(game)). A memory game by design, Simon is a useful tool for studying the neural correlates of auditory working memory, speech perception, and more.
 
 Project goals:
-1.  and optimize UE4 stimulus delivery timing for use in neuroscience experiments
+1. optimize UE4 stimulus delivery timing for use in neuroscience experiments
 2. create a game that increases engagement and motivation in study participants.
+
+This project was completed as part of the curriculum for a Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University).
 
 ## Features
 * Uploadable sound files (.WAV,.OGG supported)

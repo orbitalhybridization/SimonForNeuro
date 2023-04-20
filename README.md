@@ -41,8 +41,12 @@ This project was completed as part of the curriculum for a Master's of Science p
 
 1. Download the [zip file](https://drive.google.com/file/d/1Cx2oEqHdcQ-lriwse8LaBcMDWhglmOVx/view?usp=sharing) via Google Drive
 2. Extract to your directory of choice
-3. Inside of the folder, double click main/Simon1.exe
-4. Enjoy! Game comes with default sounds in main/Sounds/ subfolder
+3. Inside of the "Simon for Neuro" folder, double-click Simon1.exe
+4. Input default settings (Running the program for the first time will take you to settings screen)
+6. Click SAVE, then click DONE
+7. At Simon main screen click START to play
+
+Enjoy! Game comes with default sounds in main/Sounds/ subfolder.
 
 ## Using the benchmarking tools
 ### Requirements:
@@ -50,4 +54,5 @@ This project was completed as part of the curriculum for a Master's of Science p
 2. Microphone
 3. DAQ
 
+### Sample data
 Sample data from Intan Recorder available on [Google Drive](https://drive.google.com/drive/folders/1f36aAD_Uoqpxgpse4-SgAn9CM8oxs9nb?usp=share_link).

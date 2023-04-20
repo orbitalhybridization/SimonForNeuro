@@ -64,7 +64,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 
 ## Download
 
-1. Download the [zip file](https://drive.google.com/file/d/1Cx2oEqHdcQ-lriwse8LaBcMDWhglmOVx/view?usp=sharing) via Google Drive
+1. Download the [zip file](https://drive.google.com/file/d/1a45qIra9obIWfJzV1viKUjM7vuCHuTvx/view?usp=sharing) via Google Drive
 2. Extract to your directory of choice
 3. Optional: Download sample audio files via [Sounds/](https://github.com/orbitalhybridization/SimonforNeuro/tree/main/Sounds) from this repo.
 4. Inside of the SimonForNeuro folder, double-click SimonTest1.exe

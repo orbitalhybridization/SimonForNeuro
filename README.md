@@ -46,7 +46,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 6. Click SAVE, then click DONE
 7. At Simon main screen click START to play
 
-Enjoy! Game comes with default sounds in main/Sounds/ subfolder.
+Enjoy! Game comes with default sounds in Sounds/ subfolder.
 
 ## Using the benchmarking tools
 ### Requirements:
@@ -57,4 +57,5 @@ Enjoy! Game comes with default sounds in main/Sounds/ subfolder.
 ### Sample data
 Sample data available for:
 * [.RHD File](https://drive.google.com/drive/folders/1f36aAD_Uoqpxgpse4-SgAn9CM8oxs9nb?usp=share_link)
-* [CSV File](something.com)
+* [.CSV File](something.com)
+* .WAV files in Sounds/ subfolder

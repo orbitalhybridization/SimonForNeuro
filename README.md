@@ -9,3 +9,7 @@ Master's Project in ECE. Developed a game in Unreal Engine with high accuracy an
 4. Enjoy! Game comes with default sounds in main/Sounds subfolder
 
 ## Using the benchmarking tools
+### Requirements:
+1. Photodiode
+2. Microphone
+3. DAQ

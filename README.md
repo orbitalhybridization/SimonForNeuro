@@ -31,7 +31,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 (for details on methods please see attached report)
 
 ## Features
-* Uploadable sound files (.WAV,.OGG supported)
+* Uploadable sound files at runtime (.WAV,.OGG supported)
 * Persistent save slot for settings
 * Adjustable game speed via audio delay setting
 * Sound priming (caches audio data for optimized playback)
@@ -68,9 +68,9 @@ This project was completed as part of the curriculum for a Master's of Science p
 2. Extract to your directory of choice
 3. Optional: Download sample audio files via [Sounds/](https://github.com/orbitalhybridization/SimonforNeuro/tree/main/Sounds) from this repo.
 4. Inside of the SimonForNeuro folder, double-click SimonTest1.exe
-5. Upon startup, go to SETTINGS and fill in your preferences.
-6. Click SAVE, then click DONE
-7. At Simon main screen, click START to play
+5. Upon startup, go to SETTINGS and fill in your preferences *(Note: Simon needs four audio files to play, which can be imported in settings)*
+7. Click SAVE, then click DONE
+8. At Simon main screen, click START to play
 
 Enjoy! Game comes with default sounds in Sounds/ subfolder (see Step 3).
 

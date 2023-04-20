@@ -1,17 +1,19 @@
 ![something](https://i.imgur.com/as5GhAn.png)
 
 ## Project Summary
-Developed a game in the game engine Unreal Engine v4.27 (UE4) with high accuracy and precision delivery of both auditory and visual stimuli for use in in-unit sEEG studies. The game is a UE4-based implementation of the [popular electronic game](https://en.wikipedia.org/wiki/Simon_(game)). A memory game by design, Simon is a useful tool for studying the neural correlates of auditory working memory, speech perception, and more.
+Developed a game Unreal Engine v4.27 (UE4) to characterize stimulus delivery delays for both auditory and visual stimuli to be used in sEEG and ECoG studies. The game is a UE4-based implementation of the [popular electronic game, Simon](https://en.wikipedia.org/wiki/Simon_(game)). A memory game by design, Simon is a useful tool for studying the neural correlates of auditory working memory, speech perception, and more. Thus, knowing the inherent timing biases in a powerful game engine like UE4 can help us to determine its accuracy and precision at the neural timescale.
 
 Project goals:
 1. optimize UE4 stimulus delivery timing for use in neuroscience experiments
-2. create a game that increases engagement and motivation in study participants.
+2. create a game that increases engagement and motivation in study participants
 
-This project was completed as part of the curriculum for a Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University). As part of the process, I gave a [short presentation](https://docs.google.com/presentation/d/e/2PACX-1vTYunatrHIF_dEswvlyRBQls0-UcbHC2gGNquG2_JlpQTFi_Uf162eQxXcN1pgXnw/pub?start=false&loop=false&delayms=10000) to a small committee.
+This project was completed as part of the curriculum for a Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University). As part of the process, I gave a [short presentation](https://docs.google.com/presentation/d/e/2PACX-1vTYunatrHIF_dEswvlyRBQls0-UcbHC2gGNquG2_JlpQTFi_Uf162eQxXcN1pgXnw/pub?start=false&loop=false&delayms=10000) to a small committee. The eventual goal of the project is to use high-resolution game engines like Unreal to create more entertaining tasks for study participants, many of whom are confined to a hospital bed or room.
 
 ## Technical Specifications
 
 ### Stimulus Timing Test Results
+
+#### Computer 1
 
 | measure               | expected (E(x)) | E(measured) - E(x) | sd      | min      | max      |
 | --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
@@ -22,6 +24,9 @@ This project was completed as part of the curriculum for a Master's of Science p
 | audio-visual sync     | 0ms             | \-52.3ms         | 20.0ms  | \-230ms  | \-30.1ms |
 | frame rate            | 31Hz            | +1.1Hz           | 0.668Hz | 28.58Hz  | 32.91Hz  |
 | Game-DAQ Time         | 0ms             | \-194ms          | 21.2ms  | \-210ms  | 0ms      |
+
+
+#### Computer 2
 
 (for details on methods please see attached report)
 

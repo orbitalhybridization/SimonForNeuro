@@ -58,7 +58,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 #### Gameplay
 (insert video)
 
-## Known Issues
+### Known Issues
 * log file sometimes does not open upon first running the program
 * uploading sounds occasionally crashes the game (possibly due to size)
 

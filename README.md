@@ -9,6 +9,22 @@ Project goals:
 
 This project was completed as part of the curriculum for a Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University). As part of the process, I gave a [short presentation](https://docs.google.com/presentation/d/e/2PACX-1vTYunatrHIF_dEswvlyRBQls0-UcbHC2gGNquG2_JlpQTFi_Uf162eQxXcN1pgXnw/pub?start=false&loop=false&delayms=10000) to a small committee.
 
+## Technical Specifications
+
+### Stimulus Timing Test Results
+
+| measure               | Expected (E(x)) | mean differences | sd      | min      | max      |
+| --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
+| inter-audio-interval  | 1600ms          | +34ms            | 104.5ms | 1599ms   | 2560ms   |
+| inter-visual-interval | 1600ms          | +36ms            | 108.2ms | 1598ms   | 2580ms   |
+| audio length          | 1400ms          | \-3ms            | 0.55ms  | 1396.1ms | 1398.1ms |
+| visual length         | 161.3ms         | +29.1ms          | 21.2ms  | 184.9ms  | 385ms    |
+| audio-visual sync     | 0ms             | \-52.3ms         | 20.0ms  | \-230ms  | \-30.1ms |
+| frame rate            | 31Hz            | +1.1Hz           | 0.668Hz | 28.58Hz  | 32.91Hz  |
+| Game-DAQ Time         | 0ms             | \-194ms          | 21.2ms  | \-210ms  | 0ms      |
+
+(for details on methods please see attached report)
+
 ## Features
 * Uploadable sound files (.WAV,.OGG supported)
 * Persistent save slot for settings

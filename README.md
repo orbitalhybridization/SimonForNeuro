@@ -41,8 +41,9 @@ This project was completed as part of the curriculum for a Master's of Science p
 
 1. Download the [zip file](https://drive.google.com/file/d/1Cx2oEqHdcQ-lriwse8LaBcMDWhglmOVx/view?usp=sharing) via Google Drive
 2. Extract to your directory of choice
-3. Inside of the "Simon for Neuro" folder, double-click Simon1.exe
-4. Input default settings (Running the program for the first time will take you to settings screen)
+3. Optional: Download sample audio files via [Sounds](https://github.com/orbitalhybridization/SimonforNeuro/tree/main/Sounds) from this repo.
+4. Inside of the "Simon for Neuro" folder, double-click Simon1.exe
+5. Input default settings (Running the program for the first time will take you to settings screen)
 6. Click SAVE, then click DONE
 7. At Simon main screen click START to play
 

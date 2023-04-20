@@ -16,10 +16,11 @@ This project was completed as part of the curriculum for a Master's of Science p
 * Sound priming (caches audio data for optimized playback)
 * Frame rate smoothing
 * User-defined file names and save directory
+* In-game events logged to CSV during gameplay
 
 ### Examples
 
-#### Sample CSV Output
+#### Sample CSV File Output
 **0**|**Onset**|**Color**|**Position**|**Name**|**Length**|**Delay**|**FPS**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 1|0.183604|Red|TL|sound1|1.4|1.6|31.7124

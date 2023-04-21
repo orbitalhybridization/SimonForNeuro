@@ -1,7 +1,7 @@
 ![something](https://i.imgur.com/as5GhAn.png)
 
 ## Project Summary
-Developed a game Unreal Engine v4.27 (UE4) to characterize stimulus delivery delays for both auditory and visual stimuli to be used in sEEG and ECoG studies. The game is a UE4-based implementation of the [popular electronic game, Simon](https://en.wikipedia.org/wiki/Simon_(game)). A memory game by design, Simon is a useful tool for studying the neural correlates of auditory working memory, speech perception, and more. Thus, knowing the inherent timing biases in a powerful game engine like UE4 can help us to determine its accuracy and precision at the neural timescale.
+SimonForNeuro is a game developed Unreal Engine v4.27 (UE4) to characterize stimulus delivery delays for both auditory and visual stimuli to be used in sEEG and ECoG studies. The game is a UE4-based implementation of the [popular electronic game, Simon](https://en.wikipedia.org/wiki/Simon_(game)). A memory game by design, Simon is a useful tool for studying the neural correlates of auditory working memory, speech perception, and more. Thus, knowing the inherent timing biases in a powerful game engine like UE4 can help us to determine its accuracy and precision at the neural timescale.
 
 Project goals:
 1. optimize UE4 stimulus delivery timing for use in neuroscience experiments

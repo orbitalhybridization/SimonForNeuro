@@ -43,8 +43,8 @@ This project was completed as part of the curriculum for a Master's of Science p
 
 | measure               | expected (E(x)) | E(measured) - E(x) | sd      | min      | max      |
 | --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
-| inter-audio-interval  | 1600ms          | +34ms            | 104.5ms | 1599ms   | 2560ms   |
-| inter-visual-interval | 1600ms          | +36ms            | 108.2ms | 1598ms   | 2580ms   |
+| inter-audio-interval  | 1600ms          | +22.1ms            | 14.1ms | 1599ms   | 1665ms   |
+| inter-visual-interval | 1600ms          | +24.3ms            | 23.7ms | 1598ms   | 1798ms   |
 | audio length          | 1400ms          | \-3ms            | 0.55ms  | 1396.1ms | 1398.1ms |
 | visual length         | 161.3ms         | +29.1ms          | 21.2ms  | 184.9ms  | 385ms    |
 | audio-visual sync     | 0ms             | \-52.3ms         | 20.0ms  | \-230ms  | \-30.1ms |

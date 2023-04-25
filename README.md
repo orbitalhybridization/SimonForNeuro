@@ -64,6 +64,18 @@ This project was completed as part of the curriculum for a Master's of Science p
 | frame rate            | 550Hz            | \-0.435Hz           | 58.92Hz | 374.8Hz  | 611.5Hz  |
 | Laptop-DAQ Time         | 0ms             | \-190.6ms          | 19.86ms  | \-196.7ms  | 0ms      |
 
+### Computer 2 (Aligned to 2nd Flash)
+
+| measure               | expected (E(x)) | E(measured) - E(x) | sd      | min      | max      |
+| --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
+| inter-visual-interval | 1600ms          | +0.957ms            | 2.21ms | 1599ms   | 1606ms   |
+| inter-audio-interval  | 1600ms          | +1.55ms            | 6.12ms | 1595ms   | 1625ms   |
+| visual length         | 15.15ms         | +0.359ms          | 2.418ms  | 10.2ms  | 16.8ms    |
+| audio length          | 1400ms          | \-6.05ms            | 1.8.ms  | 1390ms | 1396ms |
+| audio-visual sync     | 0ms             | \-128.5ms         | 20.8ms  | \-318.9ms  | \-110.8ms |
+| frame rate            | 550Hz            | \-0.435Hz           | 58.92Hz | 374.8Hz  | 611.5Hz  |
+| Laptop-DAQ Time         | 0ms             | \-126.6ms          | 6.68ms  | \-144.6ms  | -110.7ms      |
+
 (for details on methods please see attached report)
 
 ## Download

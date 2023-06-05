@@ -14,7 +14,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 * Persistent save slot for settings
 * Adjustable game speed via audio delay setting
 * Sound priming (caches audio data for optimized playback)
-* Frame rate smoothing
+* Frame rate smoothing (Unreal Engine 4 feature)
 * User-defined file names and save directory
 * In-game events logged to CSV during gameplay
 
@@ -37,9 +37,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 #### Gameplay
 (insert video)
 
-## Stimulus Timing Test Results
-
-### Computer 1
+## Stimulus Timing Benchmarking
 
 | measure               | expected (E(x)) | E(measured) - E(x) | sd      | min      | max      |
 | --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
@@ -51,32 +49,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 | frame rate            | 31Hz            | +1.1Hz           | 0.668Hz | 28.58Hz  | 32.91Hz  |
 | Laptop-DAQ Time         | 0ms             | \-194ms          | 21.2ms  | \-210ms  | 0ms      |
 
-
-### Computer 2
-
-| measure               | expected (E(x)) | E(measured) - E(x) | sd      | min      | max      |
-| --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
-| inter-visual-interval | 1600ms          | +3.33ms            | 21.6ms | 1599ms   | 1794ms   |
-| inter-audio-interval  | 1600ms          | +1.55ms            | 6.47ms | 1595ms   | 1625ms   |
-| visual length         | 15.15ms         | +2.4ms          | 19.6ms  | 10.2ms  | 204.6ms    |
-| audio length          | 1400ms          | \-6.05ms            | 1.8.ms  | 1390ms | 1396ms |
-| audio-visual sync     | 0ms             | \-128.5ms         | 20.8ms  | \-318.9ms  | \-110.8ms |
-| frame rate            | 550Hz            | \-0.435Hz           | 58.92Hz | 374.8Hz  | 611.5Hz  |
-| Laptop-DAQ Time         | 0ms             | \-190.6ms          | 19.86ms  | \-196.7ms  | 0ms      |
-
-### Computer 2 (Aligned to 2nd Flash)
-
-| measure               | expected (E(x)) | E(measured) - E(x) | sd      | min      | max      |
-| --------------------- | --------------- | ---------------- | ------- | -------- | -------- |
-| inter-visual-interval | 1600ms          | +0.957ms            | 2.21ms | 1599ms   | 1606ms   |
-| inter-audio-interval  | 1600ms          | +1.55ms            | 6.12ms | 1595ms   | 1625ms   |
-| visual length         | 15.15ms         | +0.359ms          | 2.418ms  | 10.2ms  | 16.8ms    |
-| audio length          | 1400ms          | \-6.05ms            | 1.8.ms  | 1390ms | 1396ms |
-| audio-visual sync     | 0ms             | \-128.5ms         | 20.8ms  | \-318.9ms  | \-110.8ms |
-| frame rate            | 550Hz            | \-0.435Hz           | 58.92Hz | 374.8Hz  | 611.5Hz  |
-| Laptop-DAQ Time         | 0ms             | \-126.6ms          | 6.68ms  | \-144.6ms  | -110.7ms      |
-
-(for details on methods please see attached report)
+(for more details on methods please see attached report)
 
 ## Download
 

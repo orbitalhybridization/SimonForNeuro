@@ -81,7 +81,6 @@ Sample data available for:
 * Use the same layout for folders as seen in Sample Intan Data
 
 ## Known Issues
-* log file sometimes has issues opening upon first running the program
 * uploading sounds occasionally crashes the game (possibly due to size)
 
 Questions? Feedback? Contact me at [orbitalhybridization@gmail.com](mailto:orbitalhybridization@gmail.com).

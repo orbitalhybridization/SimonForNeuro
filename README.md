@@ -53,7 +53,7 @@ This project was completed as part of the curriculum for a Master's of Science p
 
 ## Download
 
-1. Download the [zip file](https://drive.google.com/file/d/1a45qIra9obIWfJzV1viKUjM7vuCHuTvx/view?usp=sharing) via Google Drive
+1. Download the [zip file](https://drive.google.com/file/d/1YS-ciJBzYztjWQhFETrV0AWrawvyaoLD/view?usp=sharing) via Google Drive
 2. Extract to your directory of choice
 3. Optional: Download sample audio files via [Sounds/](https://github.com/orbitalhybridization/SimonforNeuro/tree/main/Sounds) from this repo.
 4. Inside of the SimonForNeuro folder, double-click SimonTest1.exe
@@ -62,8 +62,6 @@ This project was completed as part of the curriculum for a Master's of Science p
 8. At Simon main screen, click START to play
 
 Enjoy! Game comes with default sounds in Sounds/ subfolder (see Step 3).
-
-**NOTE: Current version saves CSV files to SimonForNeuro/SimonTest1/**
 
 ## Using the benchmarking tools
 ### Requirements:
@@ -74,7 +72,7 @@ Enjoy! Game comes with default sounds in Sounds/ subfolder (see Step 3).
 ### Sample data
 Sample data available for:
 * [.RHD File](https://drive.google.com/drive/folders/1f36aAD_Uoqpxgpse4-SgAn9CM8oxs9nb?usp=share_link)
-* [.CSV File](something.com)
+* [.CSV File](https://drive.google.com/file/d/1xUiAMbsIjsl6oyi7XvnWN6J1vkybCzFP/view?usp=sharing)
 * .WAV files in Sounds/ subfolder
 
 ### Tips

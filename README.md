@@ -21,17 +21,26 @@ This project was completed as part of the curriculum for a Master's of Science p
 ### Examples
 
 #### Sample CSV File Output
-**0**|**Onset**|**Color**|**Position**|**Name**|**Length**|**Delay**|**FPS**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-1|0.183604|Red|TL|sound1|1.4|1.6|31.7124
-2|1.78535|Green|TR|sound4|1.4|1.6|32.3526
-3|3.39164|Yellow|BR|sound2|1.4|1.6|32.0403
-4|5.01839|Blue|BL|sound3|1.4|1.6|32.6082
-5|7.58606|Blue|BL|sound3|1.4|1.6|32.3935
-6|14.298|Blue|BL|sound3|1.4|1.6|32.3883
-7|15.9514|Green|TR|sound4|1.4|1.6|32.5098
-8|25.1821|Blue|BL|sound3|1.4|1.6|32.2785
-9|26.7974|Green|TR|sound4|1.4|1.6|32.444
+|0  |463503  |Color |Position     |Name              |Length  |Delay  |FPS    |
+|---|--------|------|-------------|------------------|--------|-------|-------|
+|1  |6.09E-05|      |NewBlockFlush|                  |        |       |       |
+|2  |0.991087|Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|3  |1.99112 |Green |TR           |injury            |1.15374 |1.25374|119.999|
+|4  |3.24947 |Yellow|BR           |well              |0.988299|1.0883 |119.999|
+|5  |4.34116 |Red   |BL           |scare             |1.05506 |1.15506|119.999|
+|6  |6.49128 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|7  |8.12443 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.998|
+|7  |11.0498 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|8  |12.0582 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|9  |13.7415 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
+|9  |14.0498 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
+|9  |18.1418 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|10 |19.1418 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|11 |20.1501 |Green |TR           |injury            |1.15374 |1.25374|119.999|
+|12 |21.8749 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.998|
+|12 |22.2    |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
+|12 |23.1169 |Green |TR           |injury_ButtonPress|1.15374 |1.25374|119.999|
+
 10|28.441|Red|TL|sound1|1.4|1.6|32.2311
 
 #### Gameplay

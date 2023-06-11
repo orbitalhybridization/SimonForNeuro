@@ -10,7 +10,7 @@ Project goals:
 This project was completed as part of the curriculum for a Master's of Science project in Electrical & Computer Engineering (Advisor: Gregory Cogan, Duke University). As part of the process, I gave a [short presentation](https://docs.google.com/presentation/d/e/2PACX-1vTYunatrHIF_dEswvlyRBQls0-UcbHC2gGNquG2_JlpQTFi_Uf162eQxXcN1pgXnw/pub?start=false&loop=false&delayms=10000) to a small committee. The eventual goal of the project is to use high-resolution game engines like Unreal to create more entertaining tasks for study participants, many of whom are confined to a hospital bed or room.
 
 ## Features
-* Uploadable sound files at runtime (.WAV,.OGG supported)
+* Uploadable sound files at runtime (.WAV supported)
 * Persistent save slot for settings
 * Adjustable game speed via audio delay setting
 * Sound priming (caches audio data for optimized playback)

@@ -30,16 +30,10 @@ This project was completed as part of the curriculum for a Master's of Science p
 |5  |4.34116 |Red   |BL           |scare             |1.05506 |1.15506|119.999|
 |6  |6.49128 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
 |7  |8.12443 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.998|
-|7  |11.0498 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
-|8  |12.0582 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
-|9  |13.7415 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
-|9  |14.0498 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
-|9  |18.1418 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
-|10 |19.1418 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
-|11 |20.1501 |Green |TR           |injury            |1.15374 |1.25374|119.999|
-|12 |21.8749 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.998|
-|12 |22.2    |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
-|12 |23.1169 |Green |TR           |injury_ButtonPress|1.15374 |1.25374|119.999|
+|8  |11.0498 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|9  |12.0582 |Blue  |TL           |horn              |0.895419|0.99542|119.999|
+|10  |13.7415 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
+|11 |14.0498 |Blue  |TL           |horn_ButtonPress  |0.895419|0.99542|119.999|
 
 Here, NewBlockFlush occurs at each replay of the game after the player loses and chooses to continue. It is meant to flush the stdout stream and act as a marker in the CSV.
 
